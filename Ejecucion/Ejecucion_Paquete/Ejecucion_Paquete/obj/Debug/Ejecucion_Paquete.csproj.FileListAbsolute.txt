@@ -1,0 +1,34 @@
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\Ejecucion_Paquete.exe.config
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\Ejecucion_Paquete.exe
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\Ejecucion_Paquete.pdb
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\CapaVista_Paquete.dll
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\CapaControlador_Paquete.dll
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\CapaModelo_Paquete.dll
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\CapaVista_Paquete.pdb
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\CapaControlador_Paquete.pdb
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\CapaModelo_Paquete.pdb
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.csproj.AssemblyReference.cache
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.Properties.Resources.resources
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.csproj.GenerateResource.cache
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.csproj.CoreCompileInputs.cache
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucio.70CB2D18.Up2Date
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.exe
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.pdb
+C:\Users\jurad\Desktop\UMG\8vo\analisis\2do modulo\capacitacion\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.exe.config
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\Ejecucion_Paquete.exe.config
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\Ejecucion_Paquete.exe
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\Ejecucion_Paquete.pdb
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\CapaVista_Paquete.dll
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\CapaControlador_Paquete.dll
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\CapaModelo_Paquete.dll
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\CapaVista_Paquete.pdb
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\CapaControlador_Paquete.pdb
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\bin\Debug\CapaModelo_Paquete.pdb
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.csproj.AssemblyReference.cache
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.exe.config
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.Properties.Resources.resources
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.csproj.GenerateResource.cache
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.csproj.CoreCompileInputs.cache
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucio.70CB2D18.Up2Date
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.exe
+C:\Users\alex5\Downloads\Paquete_MVC\Paquete_MVC\Ejecucion\Ejecucion_Paquete\Ejecucion_Paquete\obj\Debug\Ejecucion_Paquete.pdb
